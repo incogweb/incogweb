@@ -7,4 +7,4 @@
 
 Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
 
-![GitHub Stats](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![GitHub Stats]([https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=incogweb&theme=prussian&langs_count=8))
