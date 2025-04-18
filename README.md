@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @incogweb
 - 👀 I’m interested in web development, programming, and electronics
-- I code in Swift, Python, HTML, JS, CSS, + more
+- 🖥️ I code in Swift, Python, HTML, JS, CSS, + more
 - 🌱 I’m currently working on: 
   - Self hosted web services using Raspberry PIs
   - Building my own full private Cyberdeck
