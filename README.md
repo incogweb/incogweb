@@ -7,4 +7,4 @@
 
 Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
 
-![](https://nirzak-streak-stats.vercel.app/?user=bernatalcudia&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=incogweb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
