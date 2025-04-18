@@ -7,4 +7,4 @@
 
 Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
 
-[incogweb's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=incogweb&theme=prussian&langs_count=8))
+![GitHub Stats](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
