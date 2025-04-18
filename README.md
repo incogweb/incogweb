@@ -1,5 +1,6 @@
 - 👋 Hello, I’m @incogweb
 - 👀 I’m interested in web development, programming, and electronics
+- I code in Swift, Python, HTML, JS, CSS, + more
 - 🌱 I’m currently working on: 
   - Self hosted web services using Raspberry PIs
   - Building my own full private Cyberdeck
@@ -7,5 +8,4 @@
 
 Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=incogweb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
