@@ -7,4 +7,4 @@
 
 Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=incogwebd&hide=kotlin,java,vue,llvm&layout=compact&theme=transparent&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=bernatalcudia&theme=dark&hide_border=false)
