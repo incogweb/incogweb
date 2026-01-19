@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @incogweb
+- 👋 Hello, I’m Oscar Nicholas
 - 👀 I’m interested in web development, programming, and electronics
 - 🖥️ I code in Swift, Python, HTML, JS, CSS, + more
 - 🌱 I’m currently working on: 
@@ -6,6 +6,6 @@
   - Building my own full private Cyberdeck
   - Experimenting with IoT devices, and diving into cybersecurity concepts  
 
-Check out my mini-portfolio: [incogweb.github.io](https://incogweb.github.io)
+Check out my mini-portfolio: [oscarnic.github.io](https://oscarnic.github.io)
 
 
