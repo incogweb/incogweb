@@ -33,18 +33,13 @@ When I was 11, I built a website using HTML, CSS, and JS loaded with different g
 
 Today, I focus on:
 
-Building UI/UX-friendly applications
-IoT/Robotics (Raspberry Pi, Arduino)
-Cybersecurity research
-Freelance graphic design
-
 </p>
-
 
 <br/>
 
 <p align="left">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Studying e-commerce & economics</b></em> <br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> IoT/Robotics (Raspberry Pi, Arduino)</b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Building UI/UX-friendly applications</b></em><br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Cybersecurity research </b></em><br/>
    <img src="/imgs/img1.png" width="15"/>   <em><b> Freelance graphic design  </b></em><br/>
