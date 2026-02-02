@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Oscar Nicholas
+- 👋 Hello, I’m Oscar
 - 👀 I’m interested in web development, programming, and electronics
 - 🖥️ I code in Swift, Python, HTML, JS, CSS, + more
 - 🌱 I’m currently working on: 
