@@ -6,6 +6,6 @@
   - Building my own full private Cyberdeck
   - Experimenting with IoT devices, and diving into cybersecurity concepts  
 
-Check out my mini-portfolio: [oscarnic.github.io](https://oscarnic.github.io)
+Check out my blog: [onwiki.github.io](https://onwiki.github.io)
 
 
